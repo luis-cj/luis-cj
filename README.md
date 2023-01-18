@@ -2,9 +2,9 @@
 
 I'm Luis!
 
-🔭 I’m currently working on data science projects that can add value to real businesses.
+🔭 I’m currently working on **data science projects** that can add value to real businesses.
 
-Shifting from mechanical engineering industry to data science!
+🌱 Shifting from mechanical engineering industry to data science!
 
 <!--
 **luis-cj/luis-cj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
