@@ -16,6 +16,7 @@ Here are some of the projects I'm currently working on:
 - **Data Visualization**: Tableau, Plotly
 - **Machine Learning**: Regression, Classification, Clustering, Neural Networks
 - **Database Management**: SQL
+- **Statistical analysis**: Design of Experiments, Statistical Hypothesis Testing
 
 ## Contact
 
