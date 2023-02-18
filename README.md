@@ -6,9 +6,9 @@ I'm a mechanical engineer transitioning to the data science industry. I'm passio
 
 Here are some of the projects I'm currently working on:
 
-- **Retail market analysis**: project analysing Airbnb data of Madrid to help a retail business make strategic decisions.
+- [**Retail market analysis**](https://github.com/luis-cj/data-science-retail-market-madrid): project analysing Airbnb data of Madrid to help a retail business make strategic decisions.
 
-- **Solar power plant generation analysis**: analysis of a solar power plant to detect anomalies and root cause of equipment failure.
+- [**Solar power plant generation analysis**](https://github.com/luis-cj/data-science-solar-power-plant): analysis of a solar power plant to detect anomalies and root cause of equipment failure.
 
 ## Skills
 
