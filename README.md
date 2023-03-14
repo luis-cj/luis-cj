@@ -10,8 +10,7 @@ Here are some of the projects I'm currently working on:
 
 - [**Solar power plant generation analysis**](https://github.com/luis-cj/data-science-solar-power-plant): analysis of a solar power plant to detect anomalies and root cause of equipment failure.
 
-- [**E-commerce 
-- **](https://github.com/luis-cj/data-science-e_commerce): analysis of an e-commerce business to help them increase their revenue by implementing CRO actions and recommendation systems.
+- [**E-commerce CRO analysis**](https://github.com/luis-cj/data-science-e_commerce): analysis of an e-commerce business to help them increase their revenue by implementing CRO actions and recommendation systems.
 
 ## Skills
 
