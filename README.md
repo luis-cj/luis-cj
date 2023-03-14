@@ -25,7 +25,7 @@ Here are some of the projects I'm currently working on:
 If you're interested in collaborating on a project or just want to say hi, feel free to reach out to me!
 
 - Email: luis.castrillo.data@gmail.com
-- LinkedIn: [linkedin.com/in/luis-cj](linkedin.com/in/luis-cj)
+- LinkedIn: [linkedin.com/in/luis-cj](www.linkedin.com/in/luid-cj)
 
 Thanks for stopping by!
 
