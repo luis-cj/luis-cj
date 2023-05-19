@@ -10,6 +10,8 @@ Here are some of the projects I'm currently working on:
 
 - [**Solar power plant generation analysis**](https://github.com/luis-cj/data-science-solar-power-plant): analysis of a solar power plant to detect anomalies and root cause of equipment failure.
 
+- [**British Airways experience**](https://github.com/luis-cj/data-science-british-airways): British Airways data science virtual programme, where it is required to analyse customer satisfaction and build predictive models.
+
 ## Skills
 
 - **Python**: Pandas, NumPy, Scikit-learn, Matplotlib
