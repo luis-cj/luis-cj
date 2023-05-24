@@ -18,7 +18,7 @@ Here are some of the projects I'm currently working on:
 
 - **Python**: Pandas, NumPy, Scikit-learn, Matplotlib
 - **Data Visualization**: Tableau, Plotly
-- **Machine Learning**: Regression, Classification, Clustering, Neural Networks
+- **Machine Learning**: Regression, Classification, Forecasting, Neural Networks
 - **Database Management**: SQL
 - **Statistical analysis**: Design of Experiments, Statistical Hypothesis Testing
 
