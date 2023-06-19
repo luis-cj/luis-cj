@@ -12,7 +12,7 @@ Here are some of the projects I'm currently working on:
 
 - [**British Airways experience**](https://github.com/luis-cj/data-science-british-airways): British Airways data science virtual programme, where it is required to analyse customer satisfaction and build predictive models.
 
-- **IoT sensor data Forecasting**: engineered custom data acquisition and database system. Developed machine learning model for accurate room temperature prediction using my own data.
+- **End-to-end IoT sensor data Forecasting**: engineered custom data acquisition and database system. Developed a machine learning model for accurate room temperature prediction using my own data.
 
 ## Skills
 
