@@ -16,7 +16,7 @@ Here are some of the projects I'm currently working on:
 
 ## Skills
 
-- **Python**: Pandas, NumPy, Scikit-learn, Matplotlib
+- **Python**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Data Visualization**: Tableau
 - **Machine Learning**: Regression, Classification, Forecasting, Neural Networks
 - **Database Management**: SQL
