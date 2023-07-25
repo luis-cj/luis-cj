@@ -1,6 +1,6 @@
 # Hi there, I'm Luis 👋
 
-I'm a mechanical engineer transitioning to the data science industry. I'm passionate about leveraging data to create valuable insights and solve real-world problems for businesses.
+I'm an energy engineer transitioning to the data science industry. I'm passionate about leveraging data to create valuable insights and solve real-world problems for businesses.
 
 ## Projects
 
@@ -17,7 +17,7 @@ Here are some of the projects I'm currently working on:
 ## Skills
 
 - **Python**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
-- **Data Visualization**: Tableau, Plotly
+- **Data Visualization**: Tableau
 - **Machine Learning**: Regression, Classification, Forecasting, Neural Networks
 - **Database Management**: SQL
 - **Statistical analysis**: Design of Experiments, Statistical Hypothesis Testing
