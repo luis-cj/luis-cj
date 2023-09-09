@@ -1,6 +1,6 @@
 # Hi there, I'm Luis 👋
 
-I'm an energy engineer transitioning to the data science industry. I'm passionate about leveraging data to create valuable insights and solve real-world problems for businesses.
+I'm an mechanical engineer transitioning to the data science industry. I'm passionate about leveraging data to create valuable insights and solve real-world problems for businesses.
 
 ## Projects
 
