@@ -6,10 +6,9 @@ I'm an mechanical engineer transitioning to the data science industry. I'm passi
 
 Here are some of the projects I'm currently working on:
 
+- **Forecasting Food Retailer**: developed a multi-step forecasting LightGBM model to predict sales of 10 food products in 2 different stores using recursive forecasting with a mean average error of 5 daily selling units.
 
 - **End-to-End Machine Learning App**: created a weather forecasting app using my own Raspberry Pi and a microcontroller to predict the room temperature at home with an error of 5% using XGBoost.
-
-- **Forecasting Food Retailer**: developed a multi-step forecasting LightGBM model to predict sales of 20 food products in 2 different stores using recursive forecasting with a mean average error of 5 daily selling units.
 
 - [**British Airways experience**](https://github.com/luis-cj/data-science-british-airways): identified top 5 reasons for customer dissatisfaction using NLP from actual reviews and built a classification tree-based ML model that helped identify the 5 most important factors when booking a flight.
 
@@ -22,6 +21,7 @@ Here are some of the projects I'm currently working on:
 - **Python**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Data Visualization**: Tableau
 - **Machine Learning**: Regression, Classification, Forecasting, Neural Networks
+- **Deep Learning**: Tensorflow
 - **Database Management**: SQL
 - **Statistical analysis**: Design of Experiments, Statistical Hypothesis Testing
 
