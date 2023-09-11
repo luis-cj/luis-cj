@@ -20,8 +20,8 @@ Here are some of the projects I'm currently working on:
 
 - **Python**: Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn
 - **Data Visualization**: Tableau
-- **Machine Learning**: Regression, Classification, Forecasting, Neural Networks
-- **Deep Learning**: Tensorflow
+- **Machine Learning**: Regression, Classification, Forecasting
+- **Deep Learning**: Neural Networks, Tensorflow
 - **Database Management**: SQL
 - **Statistical analysis**: Design of Experiments, Statistical Hypothesis Testing
 
