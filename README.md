@@ -6,7 +6,7 @@ I'm an mechanical engineer transitioning to the data science industry. I'm passi
 
 Here are some of the projects I'm currently working on:
 
-- **Forecasting Food Retailer**: developed a multi-step forecasting LightGBM model to predict sales of 10 food products in 2 different stores using recursive forecasting with a mean average error of 5 daily selling units.
+- [**Forecasting Food Retailer**](https://github.com/luis-cj/data-science-forecasting-food-retailer): developed a multi-step forecasting LightGBM model to predict sales of 10 food products in 2 different stores using recursive forecasting with a mean average error of 5 daily selling units.
 
 - **End-to-End Machine Learning App**: created a weather forecasting app using my own Raspberry Pi and a microcontroller to predict the room temperature at home with an error of 5% using XGBoost.
 
